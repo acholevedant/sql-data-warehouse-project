@@ -67,6 +67,8 @@ This project follows a layered approach for optimal data processing and quality 
 - **Bronze Layer**: Raw, ingested data (staging tables)
 - **Silver Layer**: Cleansed, validated, and enriched data
 - **Gold Layer**: Aggregated and business-ready data for reporting
+![Data Arc Design](https://github.com/user-attachments/assets/f7d1614c-2117-4184-9053-2775ed2a8701)
+
 
 ### 🧠 Data Management Principles
 
