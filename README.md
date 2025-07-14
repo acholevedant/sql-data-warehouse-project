@@ -78,7 +78,7 @@ This project follows a layered approach for optimal data processing and quality 
 ---
 
 ## 📊 Sample Outputs
-
+ -- yet to complete
 > Add screenshots or descriptions of:
 - Schema diagrams (ERD)
 - Sample SQL queries
